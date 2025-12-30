@@ -31,10 +31,10 @@ The files are named clearly to correspond with the challenge order.
 
 ```text
 📦 Logic-Forge-PSET1
- ┣ 📜 challenge1_contribution_multiplier.py
- ┣ 📜 challenge2_password_window.py
- ┣ 📜 challenge3_balanced_score.py
- ┣ 📜 challenge4_storage_search.py
- ┣ 📜 challenge5_fix_expression.py
- ┣ 📜 challenge6_pattern_matcher.py
+ ┣ 📜 challenge01_contribution_multiplier.py
+ ┣ 📜 challenge02_password_window.py
+ ┣ 📜 challenge03_balanced_score.py
+ ┣ 📜 challenge04_storage_search.py
+ ┣ 📜 challenge05_fix_expression.py
+ ┣ 📜 challenge06_pattern_matcher.py
  ┗ 📜 README.md
