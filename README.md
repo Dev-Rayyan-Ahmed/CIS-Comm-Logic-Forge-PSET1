@@ -14,12 +14,12 @@ Welcome to my submission repository for **Week 1** of the Winter Activity organi
 
 | File Name | Challenge Title | Approach | Status |
 | :--- | :--- | :--- | :---: |
-| `challenge1_contribution_multiplier.py` | **Team Contribution Multiplier** | *In Progress* | ⏳ |
-| `challenge2_password_window.py` | **Password Recovery Window** | *In Progress* | ⏳ |
-| `challenge3_balanced_score.py` | **Balanced Performance Score** | *In Progress* | ⏳ |
-| `challenge4_storage_search.py` | **The Deep Storage Inventory Search** | *In Progress* | ⏳ |
-| `challenge5_fix_expression.py` | **Fix the Broken Expression** | *In Progress* | ⏳ |
-| `challenge6_pattern_matcher.py` | **Pattern Matcher** | *In Progress* | ⏳ |
+| `challenge01_contribution_multiplier.py` | **Team Contribution Multiplier** | *In Progress* | ⏳ |
+| `challenge02_password_window.py` | **Password Recovery Window** | *In Progress* | ⏳ |
+| `challenge03_balanced_score.py` | **Balanced Performance Score** | *In Progress* | ⏳ |
+| `challenge04_storage_search.py` | **The Deep Storage Inventory Search** | *In Progress* | ⏳ |
+| `challenge05_fix_expression.py` | **Fix the Broken Expression** | *In Progress* | ⏳ |
+| `challenge06_pattern_matcher.py` | **Pattern Matcher** | *In Progress* | ⏳ |
 
 > **Commit History:** As per submission guidelines, check the commit history to view the progression from initial brute-force attempts to the final optimized logic.
 
