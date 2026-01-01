@@ -22,4 +22,4 @@ def calculate_impact(contributions: list)-> list:
 
 test_contributions = [1, 2, 3, 4]
 # impacts should be = [24,12,8,6]
-print(calculate_impact(test_contributions))
+print("Input: [1, 2, 3, 4], and Output: ", calculate_impact(test_contributions))
