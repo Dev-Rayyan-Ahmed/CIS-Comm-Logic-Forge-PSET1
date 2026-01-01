@@ -14,9 +14,9 @@ Welcome to my submission repository for **Week 1** of the Winter Activity organi
 
 | File Name | Challenge Title | Approach | Status |
 | :--- | :--- | :--- | :---: |
-| `challenge01_contribution_multiplier.py` | **Team Contribution Multiplier** | *In Progress* | ⏳ |
-| `challenge02_password_window.py` | **Password Recovery Window** | *In Progress* | ⏳ |
-| `challenge03_balanced_score.py` | **Balanced Performance Score** | *In Progress* | ⏳ |
+| `challenge01_contribution_multiplier.py` | **Team Contribution Multiplier** | *Prefix & Suffix* | ✅ |
+| `challenge02_password_window.py` | **Password Recovery Window** | *Sliding Window * | ✅ |
+| `challenge03_balanced_score.py` | **Balanced Performance Score** | *Two Pointers* | ✅ |
 | `challenge04_storage_search.py` | **The Deep Storage Inventory Search** | *In Progress* | ⏳ |
 | `challenge05_fix_expression.py` | **Fix the Broken Expression** | *In Progress* | ⏳ |
 | `challenge06_pattern_matcher.py` | **Pattern Matcher** | *In Progress* | ⏳ |
