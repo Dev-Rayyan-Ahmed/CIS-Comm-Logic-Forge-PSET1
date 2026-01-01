@@ -31,4 +31,5 @@ def calculate_median(arr1: list, arr2: list)-> float:
 
 arr1 = [1,2]
 arr2 = [3,4]
-print(calculate_median(arr1, arr2))
+print("\nInputs:-\nScoresA:[1,2]\nScoresB:[3,4]\nOutput: ",calculate_median(arr1, arr2))
+print() # for extra_line
