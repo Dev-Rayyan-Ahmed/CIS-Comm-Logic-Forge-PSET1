@@ -50,5 +50,5 @@ def recover_password(log: str, pattern: str)-> str:
 
 log = "ADOBECODEBANC"
 pattern = "ABC"
-print(recover_password(log, pattern))
+print("\nInput is 'ADOBECODEBANC'\nPattern: 'ABC'\nOutput:",recover_password(log, pattern))
                 
