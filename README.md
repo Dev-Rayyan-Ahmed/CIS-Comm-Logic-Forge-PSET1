@@ -18,7 +18,7 @@ Welcome to my submission repository for **Week 1** of the Winter Activity organi
 | `challenge02_password_window.py` | **Password Recovery Window** | *Sliding Window* | ✅ |
 | `challenge03_balanced_score.py` | **Balanced Performance Score** | *Two Pointers* | ✅ |
 | `challenge04_storage_search.py` | **The Deep Storage Inventory Search** | *Binary & StairCase Search* | ✅ |
-| `challenge05_fix_expression.py` | **Fix the Broken Expression** | *In Progress* | ⏳ |
+| `challenge05_fix_expression.py` | **Fix the Broken Expression** | *DFS with Backtracking and Pruning* | ✅ |
 | `challenge06_pattern_matcher.py` | **Pattern Matcher** | *In Progress* | ⏳ |
 
 > **Commit History:** As per submission guidelines, check the commit history to view the progression from initial brute-force attempts to the final optimized logic.
