@@ -1,5 +1,8 @@
 def calculate_median(arr1: list, arr2: list)-> float:
 
+    if not arr1 and not arr2:
+        return None
+
     len_arr1 = len(arr1)
     len_arr2 = len(arr2)
     n = len_arr1 + len_arr2
@@ -20,9 +23,6 @@ def calculate_median(arr1: list, arr2: list)-> float:
         else:
             current_val = arr2[ptr2]
             ptr2 +=1
-    
-    # print(current_val)
-    # print(previous_val)
 
     if n%2 != 0:
         return float(current_val)
@@ -30,5 +30,5 @@ def calculate_median(arr1: list, arr2: list)-> float:
         return (current_val+previous_val)/2
 
 arr1 = [1,2]
-arr2 = [3,4,5]
+arr2 = [3,4]
 print(calculate_median(arr1, arr2))
