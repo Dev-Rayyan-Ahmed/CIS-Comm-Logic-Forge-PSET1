@@ -35,4 +35,5 @@ matrix =   [[1, 5, 9],
           [10, 11, 13], 
           [12, 13, 15]]
 k = 8
-print(get_kth_smallest_element(matrix, k))
+print(f"Input Matrix:-\n{matrix[0]}\n{matrix[1]}\n{matrix[2]}\nk = {k}th element\nOutput: "
+      ,get_kth_smallest_element(matrix, k))
