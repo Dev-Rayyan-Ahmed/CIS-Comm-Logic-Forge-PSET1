@@ -37,4 +37,5 @@ The files are named clearly to correspond with the challenge order.
  ┣ 📜 challenge04_storage_search.py
  ┣ 📜 challenge05_fix_expression.py
  ┣ 📜 challenge06_tower_of_hanoi.py
+ ┣ 📜 Output_ScreenShots.pdf
  ┗ 📜 README.md
