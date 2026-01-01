@@ -36,5 +36,5 @@ The files are named clearly to correspond with the challenge order.
  ┣ 📜 challenge03_balanced_score.py
  ┣ 📜 challenge04_storage_search.py
  ┣ 📜 challenge05_fix_expression.py
- ┣ 📜 challenge06_pattern_matcher.py
+ ┣ 📜 challenge06_tower_of_hanoi.py
  ┗ 📜 README.md
